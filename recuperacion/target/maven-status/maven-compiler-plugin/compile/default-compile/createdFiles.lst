@@ -1,0 +1,9 @@
+com\appweb\recuperacion\services\DiereccionService.class
+com\appweb\recuperacion\ServletInitializer.class
+com\appweb\recuperacion\services\UsuriousService.class
+com\appweb\recuperacion\RecuperacionApplication.class
+com\appweb\recuperacion\repositories\DireccionRepository.class
+com\appweb\recuperacion\repositories\UsuriousRepositories.class
+com\appweb\recuperacion\models\UsuriousModel.class
+com\appweb\recuperacion\controllers\UsuarioController.class
+com\appweb\recuperacion\models\DireccionModel.class
